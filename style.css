@@ -4,12 +4,12 @@ main{
     margin: 0 auto;
 }
 
-img {
+.img {
     display: block;
     margin: 0 auto;
     border-radius: 50px;
-    width: 45wx;
-    height: 20vw;
+    width: 25vw;
+    height: 10vw;
 }
 
 body {
@@ -70,7 +70,7 @@ h2{
 
 .icons {
     border-radius: 50px;
-    width: 10wx;
+    width: 10vx;
     height: 05vw;
 
 }
